@@ -112,3 +112,5 @@ if __name__ == "__main__":
     #         print(order_detail)
     # else:
     #     print("\n⚠️ 用户或商品创建失败，跳过订单测试")
+
+    #这是一次新的git版本！！！！！
